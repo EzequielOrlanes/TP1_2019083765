@@ -1,4 +1,4 @@
-Hi folks, here we have a code of client-server application, this way i'm describe the steps to run in your machine:
+<h2> Hi folks, here we have a code of client-server application, this way i'm describe the steps to run in your machine: </h2>
 
 <h3> How to run:</h3>
 
