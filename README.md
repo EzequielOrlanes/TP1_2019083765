@@ -1,6 +1,6 @@
 Hi folks, here we have a code of client-server application, this way i'm describe the steps to run in your machine:
 
-How to run:
+<h3> How to run:</h3>
 
 * Stetup: Linux Machine, GCC installed and text editor that supported language C sintax *
 (OK stetup? So, lets go)
