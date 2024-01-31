@@ -8,7 +8,7 @@ How to run:
 
 1⁰ step, run MakeFile:
 With the program open, put on your terminal the command make, to build the instructions for the computer run code in C.
-terminal: make
+<bold> terminal: make </bold>
 
 2⁰ step, run the Server:
 The server needs be the firt part of code to build  with named the comunication (v4 or v6) and the socket port that you wanna be connected.
