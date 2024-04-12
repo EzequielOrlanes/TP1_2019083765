@@ -2,8 +2,8 @@
 
 <h3> How to run:</h3>
 
-* Stetup: Linux Machine, GCC installed and text editor that supported language C sintax *
-(OK stetup? So, lets go)
+* Setup: Linux Machine, GCC installed and text editor that supported language C sintax *
+(OK setup? So, lets go)
 
 
 1⁰ step, run MakeFile:
